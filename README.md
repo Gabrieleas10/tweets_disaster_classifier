@@ -1,6 +1,8 @@
 # Natural Language Processing with Disaster Tweets
 
 ## Predict which Tweets are about real disasters and which ones are not
+
+![alt text](https://miro.medium.com/max/539/1*5EQreZZFsjYRsTWh6pUjmA.png)
 # Tweets Disaster Classifier Using Keras
 ## Dataset Kaggle link: https://www.kaggle.com/c/nlp-getting-started
 # Description:
